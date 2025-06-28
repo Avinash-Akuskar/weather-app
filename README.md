@@ -1,4 +1,4 @@
-
+https://avinash-akuskar.github.io/weather-app/
 # 🌦️ Weather App
 
 A simple and responsive **Weather App** built using **HTML, CSS, and JavaScript**. It allows users to search for any city and get real-time weather information using the **OpenWeatherMap API**.
@@ -48,6 +48,7 @@ const apiKey = "your_api_key_here";
 Get your API key from https://openweathermap.org/api
 
 Open index.html in your browser to run the app locally.
+https://avinash-akuskar.github.io/weather-app/
 
 📁 Folder Structure
 pgsql
@@ -69,12 +70,4 @@ weather-app/
 📄 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by [Your Name]
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to auto-fill the `your-username` or `[Your Name]` parts
+Made with ❤️ by [Avinash-Akuskar]
